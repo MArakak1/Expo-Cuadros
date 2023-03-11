@@ -1,0 +1,34 @@
+[
+    {
+        "id":5,
+        "nombre": "Yo",
+        "medidas":"Dimensiones: 40x40x10",
+        "precio": "proximamente",
+        "imagen": "../public/images/Yo.png",
+        "cantidad":1
+    },
+    {
+        "id":6,
+        "nombre": "Telefono",
+        "medidas":"Dimensiones: 40x40x10",
+        "precio": "proximamente",
+        "imagen": "../public/images/Telefono.png",
+        "cantidad":1
+    },
+    {
+        "id":7,
+        "nombre": "Flotar",
+        "medidas":"Dimensiones: 40x40x10",
+        "precio": "proximamente",
+        "imagen": "../public/images/Flotar.png",
+        "cantidad":1
+    },
+    {
+        "id":8,
+        "nombre": "Geometric",
+        "medidas":"Dimensiones: 40x40x10",
+        "precio": "proximamente",
+        "imagen": "../public/images/Geometric.png",
+        "cantidad":1
+    }
+ ]
